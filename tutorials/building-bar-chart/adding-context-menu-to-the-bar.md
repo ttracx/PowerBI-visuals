@@ -8,5 +8,5 @@ toc: true
 
 # Adding Context-Menu to the Bar Chart
 Context-Menu was added to the sample BarChart for reference.
-See [commit](https://github.com/Microsoft/PowerBI-visuals-sampleBarChart/commit/a2f7666f4bb446164143700d13708f1f852dfde3 ) for what was added at this step.
+See [commit](https://github.com/Microsoft/PowerBI-visuals-sampleBarChart/commit/5842bdc18eba540ae06278b051fd4e22124d7fae ) for what was added at this step.
 More detailed documentation to follow.
